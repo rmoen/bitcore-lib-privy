@@ -1,18 +1,19 @@
 {
-  "name": "bitcore-lib-zcash",
-  "main": "./bitcore-lib-zcash.min.js",
+  "name": "bitcore-lib-privy",
+  "main": "./bitcore-lib-privy.min.js",
   "version": "0.13.19",
   "homepage": "http://bitcore.io",
   "authors": [
     "BitPay, Inc.",
-    "Jack Grigg"
+    "Jack Grigg",
+    "Rob Moen"
   ],
-  "description": "A pure, powerful core for your zcash project.",
+  "description": "A pure, powerful core for your privy project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "zcash",
+    "privy",
     "bitcore",
     "btc",
     "satoshi"
